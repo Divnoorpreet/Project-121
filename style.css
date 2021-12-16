@@ -1,0 +1,60 @@
+body
+{
+    font-family: 'Yuji Boku', serif;
+    background-image: url(bk.jpg);
+    background-position: cover;
+    background-size: cover;
+}
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.heading_div2
+{
+    float: none;
+    background-color: white;
+    color: black;
+    font-size: 23px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px white;
+}
+.test
+{
+    margin-left: 300px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    width: 50%;
+}
+.color{
+    color:black;
+}
+.test img
+{
+    width: 200px;
+    height: 200px;
+}
+.result{
+    background-color:steelblue ;
+    color:white;
+    border-radius: 20px;
+    text-align: center;
+    margin-left:50px ;
+    margin-bottom: 80px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size:15px;;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+  }
